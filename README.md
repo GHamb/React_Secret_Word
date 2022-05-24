@@ -2,6 +2,10 @@
 
 No diretório do projeto, você pode executar:
 
+### `npm install`
+
+Depois:
+
 ### `npm start`
 
 
