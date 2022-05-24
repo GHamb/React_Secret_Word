@@ -1,4 +1,3 @@
-
 import "./GameOver.css";
 
 const GameOver = ({ retry, score }) => {
